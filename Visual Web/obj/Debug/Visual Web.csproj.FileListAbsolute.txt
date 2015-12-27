@@ -1,0 +1,10 @@
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\bin\Debug\Visual Web.exe.config
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\bin\Debug\Visual Web.exe
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\bin\Debug\Visual Web.pdb
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual Web.csprojResolveAssemblyReference.cache
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual_Web.Form1.resources
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual_Web.Properties.Resources.resources
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual Web.csproj.GenerateResource.Cache
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual Web.exe
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual Web.pdb
+c:\users\safa\documents\visual studio 2015\Projects\Visual Web\Visual Web\obj\Debug\Visual_Web.AboutBox1.resources
